@@ -1,2 +1,0 @@
-# SampleVisualization
-Simple Visualization
